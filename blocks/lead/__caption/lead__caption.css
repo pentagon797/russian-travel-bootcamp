@@ -6,7 +6,6 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   padding-top: 8px;
-  display: inline-block;
 }
 
 @media (max-width: 1023px) {
